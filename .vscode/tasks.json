@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run HiveMarine App",
+      "type": "shell",
+      "command": "& \"c:\\Users\\Angel_Ayarza\\OneDrive - FUNDACION ALBERTO MOTTA - CENTRO SUPERATE COLON\\Escritorio\\PY.3D Y MAPA\\.venv\\Scripts\\python.exe\" \"c:\\Users\\Angel_Ayarza\\OneDrive - FUNDACION ALBERTO MOTTA - CENTRO SUPERATE COLON\\Escritorio\\PY.3D Y MAPA\\hivemarine_app\\main.py\"",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
+}
